@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\API\\SpaceLoctor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4814C33A-C144-4BFD-A29B-4C48134AB540}|SpaceLoctor\\SpaceLoctor.csproj|d:\\code\\api\\spaceloctor\\spaceloctor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4814C33A-C144-4BFD-A29B-4C48134AB540}|SpaceLoctor\\SpaceLoctor.csproj|solutionrelative:spaceloctor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4814C33A-C144-4BFD-A29B-4C48134AB540}|SpaceLoctor\\SpaceLoctor.csproj|d:\\code\\api\\spaceloctor\\spaceloctor\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4814C33A-C144-4BFD-A29B-4C48134AB540}|SpaceLoctor\\SpaceLoctor.csproj|solutionrelative:spaceloctor\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\Code\\API\\SpaceLoctor\\SpaceLoctor\\Worker.cs",
+              "RelativeDocumentMoniker": "SpaceLoctor\\Worker.cs",
+              "ToolTip": "D:\\Code\\API\\SpaceLoctor\\SpaceLoctor\\Worker.cs",
+              "RelativeToolTip": "SpaceLoctor\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:49:33.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\API\\SpaceLoctor\\SpaceLoctor\\Program.cs",
+              "RelativeDocumentMoniker": "SpaceLoctor\\Program.cs",
+              "ToolTip": "D:\\Code\\API\\SpaceLoctor\\SpaceLoctor\\Program.cs",
+              "RelativeToolTip": "SpaceLoctor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:46:02.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
