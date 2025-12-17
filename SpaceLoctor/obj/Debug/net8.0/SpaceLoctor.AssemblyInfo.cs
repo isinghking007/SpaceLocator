@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpaceLoctor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36e1dac217d66269b7a9f4379bb972664bae2ab3")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpaceLoctor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpaceLoctor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
